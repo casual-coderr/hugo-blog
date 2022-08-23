@@ -16,13 +16,13 @@ So Today is an important day, since i am starting two things parallelly, i am go
 
 
 ## Why?
-+ Colleges require this to test canditates for their ability in reasoning and aptitude
-+ So To join MS need this ASAP.
+- Colleges require this to test canditates for their ability in reasoning and aptitude
+- So To join MS need this ASAP.
 
 ## What ?
-+ Conducted by ETS
-+ Cost $205
-+ Both Home Test and Exam Centre is Available
+- Conducted by ETS
+- Cost $205
+- Both Home Test and Exam Centre is Available
 
 ## How / Structure?
 3 Sections
