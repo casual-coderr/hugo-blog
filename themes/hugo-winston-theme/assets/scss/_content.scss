@@ -21,14 +21,14 @@ p {
   line-height: 24px;
 }
 
-ol,
+ol {
+  list-style-type: decimal;
+  margin: 0px;
+}
+
 ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  li {
-    list-style-type: disc;
-  }
+  list-style-type: disc;
+  margin: 0px;
 }
 
 .content {
