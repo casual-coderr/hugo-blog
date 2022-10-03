@@ -21,14 +21,14 @@ p {
   line-height: 24px;
 }
 
-ol {
-  list-style-type: decimal;
-  margin: 0px;
-}
-
+ol,
 ul {
-  list-style-type: disc;
-  margin: 0px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  li {
+    list-style: none;
+  }
 }
 
 .content {
@@ -71,12 +71,23 @@ ul {
     margin-top: 30px;
     margin-bottom: 20px;
   }
+  ul {
+    list-style: disc;
+    li {
+      list-style: disc;
+    }
+  }
+  ol {
+    list-style: decimal;
+    li {
+      list-style: decimal;
+    }
+  }
   ul,
   ol {
     margin-left: 0;
     margin-top: 10px;
     margin-bottom: 20px;
-    list-style: disc;
     li {
       font-size: 18px;
       line-height: 20px;
@@ -144,7 +155,7 @@ ul {
 }
 
 .dot {
-  color: var(--highlight-color);
+  color: var(--dot-color);
 }
 
 .footnotes {
