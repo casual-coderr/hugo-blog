@@ -7,7 +7,7 @@ date: 2022-10-02T17:17:08+05:30
 description: "Colleges and their QS Rankings"
 ---
 Link to download CSV file
-(Download)[./2023-qs.xlsx]
+[Download](./2023-qs.xlsx)
 
 | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
